@@ -1,0 +1,1068 @@
+{
+    "data": {
+        "taxe_payee": {
+            "date_consommation": "2021-08-27T20:03:38.469000+00:00",
+            "montant": 55.0,
+            "numero_timbre": "2267756211964154"
+        },
+        "_created": "2021-07-28T22:41:26.079000+00:00",
+        "courriers_annexes": [
+            {
+                "id": "621deb4c995773d61725e91b",
+                "_links": {
+                    "self": "/fichiers/621deb4c995773d61725e91b",
+                    "data": "/fichiers/621deb4c995773d61725e91b/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkxNjEyLCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjIxZGViNGM5OTU3NzNkNjE3MjVlOTFiIn0.jRCxoKum5g9CEba35HeL4i9Xn90cGaJ0ZOGuheEts-0",
+                    "name": "NDUWAYO_Melchicedec.pdf"
+                }
+            },
+            {
+                "id": "62860e4712328ac136a8e74a",
+                "_links": {
+                    "self": "/fichiers/62860e4712328ac136a8e74a",
+                    "data": "/fichiers/62860e4712328ac136a8e74a/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkyMDcsInR5cGUiOiJmaWNoaWVyIiwiaWQiOiI2Mjg2MGU0NzEyMzI4YWMxMzZhOGU3NGEifQ.7_cxRF4pSHgYDrI3oC13n74U1Shkn744jBMCSSyOf7E",
+                    "name": "Avis_de_situation_89952761800016_17_05_2022_10_47_20.pdf"
+                }
+            },
+            {
+                "id": "62860e49ad3812ac9259a86f",
+                "_links": {
+                    "self": "/fichiers/62860e49ad3812ac9259a86f",
+                    "data": "/fichiers/62860e49ad3812ac9259a86f/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkyMzk0LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjI4NjBlNDlhZDM4MTJhYzkyNTlhODZmIn0.WSTwdREx9Rdgms0RkUlBBq_AJUJhaUJN7e1fqKUJU8U",
+                    "name": "1652777351787.pdf"
+                }
+            },
+            {
+                "id": "62860e4d67f4462c3b79e986",
+                "_links": {
+                    "self": "/fichiers/62860e4d67f4462c3b79e986",
+                    "data": "/fichiers/62860e4d67f4462c3b79e986/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkyNzMyLCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjI4NjBlNGQ2N2Y0NDYyYzNiNzllOTg2In0.iHNYcT5J_2rMKUTrWF3-WjtFqt5EDX4Y3749cttcKcE",
+                    "name": "1652777395984.pdf"
+                }
+            },
+            {
+                "id": "62860e50e461cfad62b085fd",
+                "_links": {
+                    "self": "/fichiers/62860e50e461cfad62b085fd",
+                    "data": "/fichiers/62860e50e461cfad62b085fd/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkzMjIsInR5cGUiOiJmaWNoaWVyIiwiaWQiOiI2Mjg2MGU1MGU0NjFjZmFkNjJiMDg1ZmQifQ.QuBrYaWpsvzJzqBcgBRA7fxKe6Xew-NPVBHnqsUdAy4",
+                    "name": "1652777477515.pdf"
+                }
+            },
+            {
+                "id": "62860e536ff3f327dc680260",
+                "_links": {
+                    "self": "/fichiers/62860e536ff3f327dc680260",
+                    "data": "/fichiers/62860e536ff3f327dc680260/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkzNTM5LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjI4NjBlNTM2ZmYzZjMyN2RjNjgwMjYwIn0.vYI4GnhEL0vdtaL-Rz4C8_n_PSG_tYzTPDsU3TrhWd8",
+                    "name": "Affiliation_URSAFF.pdf"
+                }
+            },
+            {
+                "id": "63160e44a59df5fa0cca9c61",
+                "_links": {
+                    "self": "/fichiers/63160e44a59df5fa0cca9c61",
+                    "data": "/fichiers/63160e44a59df5fa0cca9c61/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzkzODM5LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMxNjBlNDRhNTlkZjVmYTBjY2E5YzYxIn0.4_vim74YfuWus-KHMttHHNlMoHt2FDWVdznSdoAATHc",
+                    "name": "Avis_d_impot_2022_sur_les_revenus_2021-2.pdf"
+                }
+            },
+            {
+                "id": "6318486fa59df5fa0ccaa0d3",
+                "_links": {
+                    "self": "/fichiers/6318486fa59df5fa0ccaa0d3",
+                    "data": "/fichiers/6318486fa59df5fa0ccaa0d3/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk0MjU5LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMxODQ4NmZhNTlkZjVmYTBjY2FhMGQzIn0.Y44CMbor00yuY3_xWNaQIfUIhTAfrNdhwFAR52Bs9y0",
+                    "name": "Nouveau_Titre_de_sejour-2.pdf"
+                }
+            },
+            {
+                "id": "631848729542aed4d432874a",
+                "_links": {
+                    "self": "/fichiers/631848729542aed4d432874a",
+                    "data": "/fichiers/631848729542aed4d432874a/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk0NTYxLCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMxODQ4NzI5NTQyYWVkNGQ0MzI4NzRhIn0.l3Z5tzbJxbnymO2WFCKJpwmln3LKD_0dCpS8VWAeP1Y",
+                    "name": "SalaireJuillet2022.pdf"
+                }
+            },
+            {
+                "id": "63184875271f5871bc06e0f2",
+                "_links": {
+                    "self": "/fichiers/63184875271f5871bc06e0f2",
+                    "data": "/fichiers/63184875271f5871bc06e0f2/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk0ODU2LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMxODQ4NzUyNzFmNTg3MWJjMDZlMGYyIn0.TASE9rXQ1c_ZMXL7-koUL9x48snXP2np2HoMmiPMJBk",
+                    "name": "SalaireJuin2022.pdf"
+                }
+            },
+            {
+                "id": "63184878271f5871bc06e0f7",
+                "_links": {
+                    "self": "/fichiers/63184878271f5871bc06e0f7",
+                    "data": "/fichiers/63184878271f5871bc06e0f7/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk1MTUxLCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMxODQ4NzgyNzFmNTg3MWJjMDZlMGY3In0.nMBSfd-rw5tHYkNlmnX6-uvv7zZrJUueLVUCjUgLVz4",
+                    "name": "SalaireAout2022.pdf"
+                }
+            },
+            {
+                "id": "6318487d66c324dd84866884",
+                "_links": {
+                    "self": "/fichiers/6318487d66c324dd84866884",
+                    "data": "/fichiers/6318487d66c324dd84866884/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk1NDU5LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMxODQ4N2Q2NmMzMjRkZDg0ODY2ODg0In0.jSG08icUqq3Ac23qUjomN-hbMHwEP_86tZvu5Ydff-8",
+                    "name": "CAAnneeencours-1.pdf"
+                }
+            },
+            {
+                "id": "632d67c4b8d12c74e68fe092",
+                "_links": {
+                    "self": "/fichiers/632d67c4b8d12c74e68fe092",
+                    "data": "/fichiers/632d67c4b8d12c74e68fe092/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk1NzU1LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMyZDY3YzRiOGQxMmM3NGU2OGZlMDkyIn0.r3j5FSqu062nW8keLyWRLKk5RlXrD-J7MgeB-6MImqc",
+                    "name": "NDUWAYO_Melchicedec.pdf"
+                }
+            },
+            {
+                "id": "632d67e284026bebb23ea728",
+                "_links": {
+                    "self": "/fichiers/632d67e284026bebb23ea728",
+                    "data": "/fichiers/632d67e284026bebb23ea728/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk2MjEsInR5cGUiOiJmaWNoaWVyIiwiaWQiOiI2MzJkNjdlMjg0MDI2YmViYjIzZWE3MjgifQ.fzJU6mLKjCVznxPdo0WsaEkg9Js5kZy797lojtMhu4o",
+                    "name": "NDUWAYO.pdf"
+                }
+            },
+            {
+                "id": "632d682784026bebb23ea732",
+                "_links": {
+                    "self": "/fichiers/632d682784026bebb23ea732",
+                    "data": "/fichiers/632d682784026bebb23ea732/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuMzk2NTE2LCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMyZDY4Mjc4NDAyNmJlYmIyM2VhNzMyIn0.VIQDI9xLTMVnKaEbr3jRfsiG8UDEcb3aRJJMEkYIAe8",
+                    "name": "NDUWAYO_Melchicedec-DDSP_63_NAT-JT..pdf"
+                }
+            }
+        ],
+        "ressources_activites": {
+            "prestations_sociales": [
+                {
+                    "nature": "AUCUNE"
+                }
+            ],
+            "contrats_travail": [
+                "CDI"
+            ],
+            "salaire_moyen_net": {
+                "salaire_demandeur": 2172.0
+            },
+            "avis_imposition_revenus": {
+                "annee_n_moins_2": 13844.0,
+                "annee_n_moins_3": 162.0,
+                "annee_n_moins_1": 27875.0
+            },
+            "ressource_provenance_etranger": 0.0
+        },
+        "echanges": [
+            {
+                "type": "ECHANGE_PLATEFORME",
+                "_cls": "Echange",
+                "type_requete": "DEMANDE_APPROFONDISSEMENT_INSTRUCTION",
+                "id": 365,
+                "fil_discussion": [
+                    {
+                        "observations": "- manque d\u00e9clarations trimestrielles URSSAF, inscription au r\u00e9pertoire INSEE.",
+                        "prenom_agent": "Monique",
+                        "date": "2022-05-10T13:51:46.186000+00:00",
+                        "nom_agent": "RAYMOND",
+                        "type_remarque": "DEMANDE"
+                    }
+                ]
+            }
+        ],
+        "demande_complement": [
+            {
+                "date_creation_demande": "2022-02-03T09:58:58.737000+00:00",
+                "agent_en_charge": {
+                    "nom": "TURPIN",
+                    "prenom": "Jordan",
+                    "agent_ref": {
+                        "id": "61dece8faa317708a926b96c",
+                        "_links": {
+                            "self": "/anf/agents/61dece8faa317708a926b96c"
+                        }
+                    }
+                },
+                "demande_complement": [
+                    {
+                        "id": "61fba7622131f708b080ff29"
+                    }
+                ]
+            }
+        ],
+        "enquete_et_moralite": {
+            "chambre_commerce_et_industrie": {
+                "reponse": "null",
+                "partenaire_contacte": "Non"
+            },
+            "cjn": [
+                {
+                    "statut_cjn": "A_ENVOYER",
+                    "date_demande": "2022-10-10T12:37:38.958000+00:00"
+                }
+            ],
+            "chambre_des_metiers": {
+                "partenaire_contacte": "Non"
+            },
+            "tribunaux_taj": {
+                "reponse": "inconnu",
+                "lieu": "",
+                "partenaire_contacte": "Non"
+            },
+            "loyalisme_fiscal": {
+                "dettes": "Non",
+                "loyalisme_fiscal": "Oui"
+            },
+            "police_gendarmerie": {
+                "reponse": "inconnu",
+                "lieu": "",
+                "partenaire_contacte": "Police"
+            },
+            "dgsi": [
+                {
+                    "messages_id": [
+                        "62b47e40fb26774520091372"
+                    ],
+                    "date_demande": "2022-06-23T14:52:48.377000+00:00"
+                },
+                {
+                    "nature_reponse": "Sans observation",
+                    "messages_id": [
+                        "62b59020b5eee0242fe57b96",
+                        "01740240055963550"
+                    ],
+                    "date_reponse": "2022-04-25T14:42:11.475000+00:00",
+                    "date_demande": "2022-06-24T10:21:20.434000+00:00"
+                }
+            ],
+            "srdt_drpp": {
+                "fichier": {
+                    "id": "63244380ee95cc1da113728d",
+                    "_links": {
+                        "self": "/fichiers/63244380ee95cc1da113728d",
+                        "data": "/fichiers/63244380ee95cc1da113728d/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuNDA4NjQzLCJ0eXBlIjoiZmljaGllciIsImlkIjoiNjMyNDQzODBlZTk1Y2MxZGExMTM3MjhkIn0.XHb-UjENhpVVuBU9LR3BmDIpOCnMW63_juy9jI57k_M",
+                        "name": "NDUWAYO_Melchicedec.pdf"
+                    }
+                },
+                "reponse": "inconnu",
+                "date_retour": "2022-04-03T00:00:00+00:00",
+                "lieu": "CLERMONT-FERRAND",
+                "date_demande": "2022-03-03T00:00:00+00:00",
+                "partenaire_contacte": "SDRT"
+            },
+            "cje": {
+                "condamnation": "Non"
+            }
+        },
+        "decision_signataire": {
+            "fichier": {
+                "id": "632dacbe2738dd016fb9e5f4",
+                "_links": {
+                    "self": "/fichiers/632dacbe2738dd016fb9e5f4",
+                    "data": "/fichiers/632dacbe2738dd016fb9e5f4/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuNDExMDYsInR5cGUiOiJmaWNoaWVyIiwiaWQiOiI2MzJkYWNiZTI3MzhkZDAxNmZiOWU1ZjQifQ.-MqCCo0KdkFRot57vJZEzHFWe4wk8mMs-QyqkycufLM",
+                    "name": "avis_signe_NDUWAYO.pdf"
+                }
+            }
+        },
+        "demande": {
+            "parents_et_fratrie": {
+                "parents": [
+                    {
+                        "_cls": "Parent",
+                        "documents": [
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "612943208a853608b626ff11"
+                                    }
+                                ],
+                                "nom_technique": "acte_etat_civil_parent"
+                            }
+                        ],
+                        "lieu_naissance": "NGOZI",
+                        "prenoms": [
+                            "Pierre"
+                        ],
+                        "nom": "BUDIDA",
+                        "is_validated_etat_civil": true,
+                        "nationalites": [
+                            {
+                                "libelle": "burundaise",
+                                "code": "BDI"
+                            }
+                        ],
+                        "annee_naissance": 1945,
+                        "pays_naissance": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "adresse": "",
+                        "jour_naissance": 1,
+                        "mois_naissance": 1,
+                        "inconnu": false,
+                        "sexe": "M",
+                        "valeurs_initiales": {}
+                    },
+                    {
+                        "_cls": "Parent",
+                        "documents": [
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "612943368a8536114900a92a"
+                                    }
+                                ],
+                                "nom_technique": "acte_etat_civil_parent"
+                            }
+                        ],
+                        "lieu_naissance": "RUTANA",
+                        "prenoms": [
+                            "Pauline"
+                        ],
+                        "nom": "KHADIMI",
+                        "is_validated_etat_civil": true,
+                        "nationalites": [
+                            {
+                                "libelle": "burundaise",
+                                "code": "BDI"
+                            }
+                        ],
+                        "annee_naissance": 1950,
+                        "pays_naissance": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "adresse": "",
+                        "jour_naissance": 1,
+                        "mois_naissance": 1,
+                        "inconnu": false,
+                        "sexe": "F",
+                        "valeurs_initiales": {}
+                    }
+                ],
+                "freres_et_soeurs": [
+                    {
+                        "_cls": "Personne",
+                        "lieu_naissance": "BUJUMBURA",
+                        "prenoms": [
+                            "Vital"
+                        ],
+                        "nom": "NDAYISHIMIYE",
+                        "is_validated_etat_civil": true,
+                        "nationalites": [
+                            {
+                                "libelle": "burundaise",
+                                "code": "BDI"
+                            }
+                        ],
+                        "annee_naissance": 1965,
+                        "pays_naissance": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "adresse": "Bujumbura",
+                        "jour_naissance": 1,
+                        "mois_naissance": 1,
+                        "sexe": "M"
+                    },
+                    {
+                        "_cls": "Personne",
+                        "lieu_naissance": "BUJUMBURA",
+                        "prenoms": [
+                            "Goreth"
+                        ],
+                        "nom": "NSAVYIMANA",
+                        "is_validated_etat_civil": true,
+                        "nationalites": [
+                            {
+                                "libelle": "burundaise",
+                                "code": "BDI"
+                            }
+                        ],
+                        "annee_naissance": 1971,
+                        "pays_naissance": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "adresse": "Bujumbura",
+                        "jour_naissance": 1,
+                        "mois_naissance": 1,
+                        "sexe": "F"
+                    },
+                    {
+                        "_cls": "Personne",
+                        "lieu_naissance": "BUJUMBURA",
+                        "prenoms": [
+                            "Francine"
+                        ],
+                        "nom": "KWIZERA",
+                        "is_validated_etat_civil": true,
+                        "nationalites": [
+                            {
+                                "libelle": "burundaise",
+                                "code": "BDI"
+                            }
+                        ],
+                        "annee_naissance": 1972,
+                        "pays_naissance": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "adresse": "Bujumbura",
+                        "jour_naissance": 1,
+                        "mois_naissance": 1,
+                        "sexe": "F"
+                    },
+                    {
+                        "_cls": "Personne",
+                        "lieu_naissance": "BUJUMBURA",
+                        "prenoms": [
+                            "C\u00e9cile"
+                        ],
+                        "nom": "MANIRAKIZA",
+                        "is_validated_etat_civil": true,
+                        "nationalites": [
+                            {
+                                "libelle": "burundaise",
+                                "code": "BDI"
+                            }
+                        ],
+                        "annee_naissance": 1979,
+                        "pays_naissance": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "adresse": "Bujumbura",
+                        "jour_naissance": 1,
+                        "mois_naissance": 1,
+                        "sexe": "F"
+                    }
+                ],
+                "a_freres_et_soeurs": true
+            },
+            "situation_familiale": {
+                "enfants": [
+                    {
+                        "_cls": "Enfant"
+                    }
+                ],
+                "union_actuelle": {
+                    "conjoint": {
+                        "_cls": "PersonneUnion",
+                        "numero_demande": "",
+                        "adresse": "",
+                        "valeurs_initiales": {}
+                    },
+                    "situation": {
+                        "type": "NON_COMMUNIQUE",
+                        "_cls": "Situation"
+                    }
+                },
+                "a_enfants": false,
+                "a_unions_anterieures": false,
+                "unions_anterieures": [
+                    {
+                        "conjoint": {
+                            "_cls": "PersonneUnion",
+                            "adresse": ""
+                        }
+                    }
+                ],
+                "situation_actuelle": "CELIBATAIRE"
+            },
+            "ressources": {
+                "situations_actuelles": [
+                    {
+                        "mois_debut": 10,
+                        "type": "SALARIE",
+                        "_cls": "Situation",
+                        "documents": [
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "6107feb01f8f6f08ac51731a"
+                                    }
+                                ],
+                                "nom_technique": "contrat_travail_en_cours"
+                            },
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "6107febb2f008408ad320eb4"
+                                    },
+                                    {
+                                        "id": "610814f71e67bd08b4592fc2"
+                                    },
+                                    {
+                                        "id": "611a7388a90df710983d0000"
+                                    }
+                                ],
+                                "nom_technique": "trois_derniers_bulletins_salaire"
+                            },
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "611a7e72a8c48808b5e4e2c5"
+                                    }
+                                ],
+                                "nom_technique": "certificats_travail_trois_dernieres_annees"
+                            },
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "611a80dfa90df710983d046d"
+                                    },
+                                    {
+                                        "id": "611a80eea90df708a98c01cf"
+                                    }
+                                ],
+                                "nom_technique": "bulletins_salaires_nov_dec_trois_annees"
+                            }
+                        ],
+                        "societe": {
+                            "_cls": "Societe",
+                            "numero_siret": ""
+                        },
+                        "profession": "Analyste d\u00e9veloppeur",
+                        "employeur": {
+                            "lieu_travail_effectif": false,
+                            "_cls": "Employeur",
+                            "adresse_travail_effectif": "Campus RDI, Michelin Site de LADOUX, 63118 C\u00e9bazat",
+                            "adresse": "7 Rue de Cataroux, 63000 Clermont-Ferrand, France",
+                            "nom": "ATOS INTEGRATION"
+                        },
+                        "annee_debut": 2019,
+                        "jour_debut": 1,
+                        "filiere": ""
+                    },
+                    {
+                        "mois_debut": 4,
+                        "type": "PROF_LIBERALES",
+                        "_cls": "Situation",
+                        "documents": [
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "611a824aa8c48808c57fa275"
+                                    }
+                                ],
+                                "nom_technique": "copie_inscription_ordre_pro"
+                            },
+                            {
+                                "originaux": [
+                                    {
+                                        "id": "611a8558a8c48812fab1c55f"
+                                    }
+                                ],
+                                "nom_technique": "justif_ressources_trois_dernieres_annees"
+                            }
+                        ],
+                        "societe": {
+                            "_cls": "Societe",
+                            "numero_siret": "89952761800016",
+                            "adresse": "6 RUE MAURICE THOREZ, 63100 Clermont-Ferrand",
+                            "nom": "MELCHI SOFT ENTERPRISE"
+                        },
+                        "profession": "Programmation informatique et mentor",
+                        "employeur": {
+                            "_cls": "Employeur"
+                        },
+                        "annee_debut": 2021,
+                        "jour_debut": 1,
+                        "filiere": ""
+                    }
+                ],
+                "situations_precedentes": {
+                    "_cls": "SituationPrecedente",
+                    "situations_precedentes_avant_arrivee": [
+                        {
+                            "_cls": "SituationPrecedenteAvantArrivee",
+                            "details_eventuels": ""
+                        }
+                    ],
+                    "a_autres_situations_depuis_arrivee": true,
+                    "a_autres_situations_avant_arrivee": false,
+                    "situations_precedentes_depuis_arrivee": [
+                        {
+                            "mois_debut": 9,
+                            "type": "ETUDIANT",
+                            "etablissement_formation": "Universit\u00e9 Clermont Auvergne",
+                            "_cls": "SituationPrecedenteDepuisArrivee",
+                            "societe": {
+                                "_cls": "Societe",
+                                "numero_siret": ""
+                            },
+                            "mois_fin": 9,
+                            "employeur": {
+                                "_cls": "Employeur"
+                            },
+                            "annee_fin": 2019,
+                            "jour_fin": 30,
+                            "annee_debut": 2015,
+                            "jour_debut": 24,
+                            "filiere": "Sciences Informatiques"
+                        }
+                    ]
+                },
+                "autres_ressources": {
+                    "a_autre_pension": false,
+                    "a_autres_prestations": false,
+                    "a_revenus_mobilier_france": false,
+                    "a_revenus_mobilier_etranger": false,
+                    "a_pension_reversion": false,
+                    "est_pris_en_charge": false,
+                    "documents": [
+                        {
+                            "originaux": [
+                                {
+                                    "id": "6107fb721e67bd08ac2453b5"
+                                },
+                                {
+                                    "id": "6107fb7c2f008408af4ea917"
+                                },
+                                {
+                                    "id": "6107fb891f8f6f08ab2fac0a"
+                                }
+                            ],
+                            "nom_technique": "avis_imposition_trois_dernieres_annees"
+                        },
+                        {
+                            "originaux": [
+                                {
+                                    "id": "6107fbe52f008408b6c4450d"
+                                }
+                            ],
+                            "nom_technique": "bordereau_situation_fiscale_p_237"
+                        }
+                    ],
+                    "a_pension_invalidite": false,
+                    "preneur_en_charge": {
+                        "_cls": "PreneurEnCharge",
+                        "situation": {
+                            "_cls": "Situation",
+                            "societe": {
+                                "_cls": "Societe",
+                                "numero_siret": ""
+                            },
+                            "employeur": {
+                                "_cls": "Employeur"
+                            },
+                            "filiere": ""
+                        },
+                        "adresse": ""
+                    },
+                    "a_pension_alimentaire": false,
+                    "a_prestations_caf": false
+                }
+            },
+            "domicile": {
+                "a_second_domicile": false,
+                "a_sejours_etranger": true,
+                "documents": [
+                    {
+                        "originaux": [
+                            {
+                                "id": "611a8627a8c48816aac47368"
+                            }
+                        ],
+                        "nom_technique": "casier_judiciaire_etranger_ou_equivalent"
+                    },
+                    {
+                        "originaux": [
+                            {
+                                "id": "611a8715a90df708acfa5c13"
+                            }
+                        ],
+                        "nom_technique": "contrat_de_location"
+                    },
+                    {
+                        "originaux": [
+                            {
+                                "id": "611a87fea8c48812fab1c65b"
+                            },
+                            {
+                                "id": "611a8815a90df708acfa5c7a"
+                            },
+                            {
+                                "id": "611a8820a8c48811e1a0eb57"
+                            }
+                        ],
+                        "nom_technique": "trois_derniers_loyers"
+                    },
+                    {
+                        "originaux": [
+                            {
+                                "id": "611a93710ef14008a995c391"
+                            }
+                        ],
+                        "nom_technique": "derniere_fact_tel_ou_elec"
+                    }
+                ],
+                "situation_actuelle": "LOCATAIRE",
+                "mois_entree": 3,
+                "sejours_etrangers": [
+                    {
+                        "mois_debut": 7,
+                        "pays": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "mois_fin": 9,
+                        "motif": "Depuis ma naissance j'ai habit\u00e9 au Burundi",
+                        "annee_fin": 2015,
+                        "jour_fin": 23,
+                        "annee_debut": 1983,
+                        "jour_debut": 14
+                    }
+                ],
+                "a_precedents_domiciles": true,
+                "domiciles_precedents": [
+                    {
+                        "numero_nom_voie": "25 Rue Etienne Dolet",
+                        "situation": "LOCATAIRE",
+                        "pays": {
+                            "libelle": "FRANCE",
+                            "code": "FRA"
+                        },
+                        "mois_entree": 9,
+                        "mois_sortie": 8,
+                        "jour_sortie": 31,
+                        "code_postal": "63000",
+                        "annee_sortie": 2018,
+                        "departement_region_etat": "Puy-de-D\u00f4me",
+                        "jour_entree": 24,
+                        "ville": "Clermont-Ferrand",
+                        "annee_entree": 2015
+                    },
+                    {
+                        "numero_nom_voie": "6 Boulevard Claude Bernard",
+                        "situation": "LOCATAIRE",
+                        "pays": {
+                            "libelle": "FRANCE",
+                            "code": "FRA"
+                        },
+                        "mois_entree": 9,
+                        "mois_sortie": 8,
+                        "jour_sortie": 31,
+                        "code_postal": "63000",
+                        "annee_sortie": 2019,
+                        "departement_region_etat": "Puy-de-D\u00f4me",
+                        "jour_entree": 1,
+                        "ville": "Clermont-Ferrand",
+                        "annee_entree": 2018
+                    },
+                    {
+                        "numero_nom_voie": "77 Boulevard Lafayette",
+                        "situation": "LOCATAIRE",
+                        "pays": {
+                            "libelle": "FRANCE",
+                            "code": "FRA"
+                        },
+                        "mois_entree": 9,
+                        "mois_sortie": 2,
+                        "jour_sortie": 28,
+                        "code_postal": "63000",
+                        "annee_sortie": 2020,
+                        "departement_region_etat": "Puy-de-D\u00f4me",
+                        "jour_entree": 1,
+                        "ville": "Clermont-Ferrand",
+                        "annee_entree": 2019
+                    }
+                ],
+                "adresse": {
+                    "chez": null,
+                    "complement": "B\u00e2timent 6, Appartement 062",
+                    "identifiant_ban": null,
+                    "adresse_inconnue": null,
+                    "numero_voie": "6",
+                    "voie": "Rue Maurice Thorez",
+                    "code_insee": "63113",
+                    "code_postal": "63100",
+                    "ville": "Clermont-Ferrand",
+                    "pays": {
+                        "code": "FRA",
+                        "libelle": "FRANCE"
+                    },
+                    "longlat": null,
+                    "longitude": null,
+                    "latitude": null,
+                    "numero_departement": null,
+                    "libelle_departement": null,
+                    "region": null,
+                    "libelle_commune": null,
+                    "nom_structure": null,
+                    "id_structure": null
+                },
+                "jour_entree": 1,
+                "annee_entree": 2020
+            },
+            "informations": {
+                "situations_particulieres": {
+                    "a_possede_nationalite_fr": false,
+                    "a_statut_apatride": false,
+                    "numeros_demandes": [
+                        ""
+                    ],
+                    "a_invalidite": false,
+                    "a_etat_sante_deficient": false,
+                    "a_precedente_demande": false,
+                    "a_statut_refugie": false,
+                    "a_statut_handicap": false,
+                    "est_ancien_combattant": false
+                },
+                "etudes_et_langues": {
+                    "scolarisation_en_francais": {
+                        "etablissements_et_pays": [
+                            "Lyc\u00e9e Municipal de Musaga, BURUNDI"
+                        ]
+                    },
+                    "etudes_superieures_francaises": {
+                        "intitule_formation": "Master en Syst\u00e8mes d'Information et d'aide \u00e0 la d\u00e9cision",
+                        "etablissement": "Universit\u00e9 Clermont Auvergne"
+                    },
+                    "documents": [
+                        {
+                            "originaux": [
+                                {
+                                    "id": "6104601a90a1c81963243d42"
+                                },
+                                {
+                                    "id": "610460b102c44518e87411b8"
+                                }
+                            ],
+                            "nom_technique": "diplome_etudes_fr"
+                        },
+                        {
+                            "originaux": [
+                                {
+                                    "id": "61045f04358f6d259e5c2157"
+                                },
+                                {
+                                    "id": "61046056358f6d2e2dbce227"
+                                }
+                            ],
+                            "nom_technique": "justif_2_annees_etudes"
+                        },
+                        {
+                            "originaux": [
+                                {
+                                    "id": "610460d290a1c823a9432f7a"
+                                }
+                            ],
+                            "nom_technique": "certificat_etudes_fr"
+                        },
+                        {
+                            "originaux": [
+                                {
+                                    "id": "610460e102c445241eff04a2"
+                                },
+                                {
+                                    "id": "610460ee358f6d19e8361b5e"
+                                }
+                            ],
+                            "nom_technique": "justif_5_annees_etudes"
+                        }
+                    ],
+                    "a_scolarisation_en_francais": true,
+                    "a_etudes_superieures_francaise": true,
+                    "diplome_pays_francophone": {
+                        "intitule_formation": "Licence en Informatique de Gestion",
+                        "pays": {
+                            "libelle": "BURUNDI",
+                            "code": "BDI"
+                        },
+                        "etablissement": "Universit\u00e9 Martin Luther King de Bujumbura"
+                    },
+                    "a_diplome_pays_francophone": true
+                },
+                "article_code_civil": {
+                    "SDANF": "OUI",
+                    "code": "8",
+                    "lib_recevabilite_article": "21-15, 21-20 - Pas de stage : appartenance \u00e0 l'entit\u00e9 culturelle fran\u00e7aise",
+                    "PLATEFORME": "OUI"
+                },
+                "etat_civil": {
+                    "nom": "NDUWAYO",
+                    "nom_naissance": "NDUWAYO",
+                    "a_change_de_nom": false,
+                    "prenoms": [
+                        "Melchicedec"
+                    ],
+                    "sexe": "M",
+                    "jour_naissance": 14,
+                    "mois_naissance": 7,
+                    "annee_naissance": 1983,
+                    "lieu_naissance": "KININDO BUJUMBURA",
+                    "pays_naissance": {
+                        "code": "BDI",
+                        "libelle": "BURUNDI"
+                    },
+                    "est_decede": false,
+                    "nationalites": [
+                        {
+                            "code": "BDI",
+                            "libelle": "burundaise"
+                        }
+                    ],
+                    "email": "ndumelchipaul2000@gmail.com",
+                    "numero_etranger": "9917024318",
+                    "is_validated_etat_civil": true,
+                    "valeurs_initiales": {
+                        "prenoms": {
+                            "valeur_initiale": "MELCHICEDEC",
+                            "modifie_par": {
+                                "agent_ref": {
+                                    "$oid": "61dece8faa317708a926b96c"
+                                },
+                                "nom": "TURPIN",
+                                "prenom": "Jordan"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": "/anf/usager/dossiers/3228",
+            "parent": "/anf/usager/dossiers"
+        },
+        "numero_national": "2021X 202234",
+        "decision": {
+            "synthese": "FPR NEANT",
+            "date_reponse_agent": "2022-09-23T10:03:25.936000+00:00",
+            "proposition_agent": {
+                "nom": "TURPIN",
+                "prenom": "Jordan",
+                "agent_ref": {
+                    "id": "61dece8faa317708a926b96c",
+                    "_links": {
+                        "self": "/anf/agents/61dece8faa317708a926b96c"
+                    }
+                }
+            },
+            "argumentaire": "De nationalit\u00e9 burundaise, n\u00e9 en 1983, entr\u00e9 en France en septembre 2015, le postulant est titulaire d'un titre de s\u00e9jour valable jusqu'au 23/04/2026.\nDispens\u00e9 de stage (originaire d\u2019un pays francophone).\n\nC\u00e9libataire sans enfant.\n\nEtudiant de septembre 2015 \u00e0 2019, analyste d\u00e9veloppeur sous contrat \u00e0 dur\u00e9e ind\u00e9termin\u00e9e depuis le 01/04/2019, il per\u00e7oit, \u00e0 ce titre, un salaire mensuel moyen de 2 172 \u20ac. Affili\u00e9 \u00e0 l\u2019URSAAF en qualit\u00e9 d\u2019auto--entrepreneur depuis le 01/04/2021, il est g\u00e9rant d\u2019une soci\u00e9t\u00e9 de programmation informatique parall\u00e8lement \u00e0 son activit\u00e9 salari\u00e9e (revenus commerciaux d\u00e9clar\u00e9s en 2021 d\u2019un montant de 1 680\u20ac)\n\nLes revenus d\u00e9clar\u00e9s du postulant sur les derni\u00e8res ann\u00e9es sont de 162 \u20ac en 2018 , 13 844 \u20ac en 2019 et 27 875 \u20ac en 2020. Son cumul imposable en 2021 s'\u00e9l\u00e8ve \u00e0 28 414 \u20ac.\n\nLe loyalisme fiscal est av\u00e9r\u00e9 au vu de l'attestation du centre des imp\u00f4ts dat\u00e9e du 04/03/2022. Le postulant ne fait l'objet d'aucune dette locative.\n\nAucune observation de la DGSI en date du 25/04/2022. Aucune mention au TAJ, il n'est pas connu des services de police ni du renseignement territorial. Aucune mention au B2 en date du 23/06/2022 ni au casier judiciaire \u00e9tranger.\n\nCREA satisfaisant. Il justifie de sa connaissance du fran\u00e7ais en produisant ses dipl\u00f4mes fran\u00e7ais (licence et  master en sciences, technologies, sant\u00e9 mention informatique).\n",
+            "nature_motif_decision": {
+                "code": "NAT",
+                "nature": "NAT - Naturalisation du postulant",
+                "motif": "000 - Dossier conforme",
+                "modele_courrier_pref": "Pref proposition favorable"
+            },
+            "statut": "FAVORABLE"
+        },
+        "statut": {
+            "type": "CONTROLE_A_EFFECTUER",
+            "date_modification": "2022-10-05T13:39:43.900000+00:00",
+            "tag_controle_scec": "PIPE_COMMUN",
+            "complement_statut": [
+                "second_vf",
+                "retour_complement_a_traiter",
+                "attente_complement_usager"
+            ],
+            "date_arrivee_controle": "2022-09-23T12:55:42.651000+00:00",
+            "type_scec": "NON_ATTRIBUE"
+        },
+        "resumes": {
+            "ressources": "Avis d'impot 2022 = 28 414 \u20ac",
+            "demande_et_capacite": "/",
+            "etat_civil": "nouveau titre de s\u00e9jour = 24/04/2026",
+            "centre_attaches_familiales": "/",
+            "enquete_et_moralite": "/",
+            "conditions": "/"
+        },
+        "_version": 516,
+        "_updated": "2022-10-05T13:39:44.260000+00:00",
+        "current_step": 5,
+        "entretien_assimilation": {
+            "unite_gestion": {
+                "id": "56",
+                "libelle": "INSTRUCTION PF 63",
+                "nom_plateforme": "Pr\u00e9fecture du Puy de D\u00f4me",
+                "adresse_physique": "Pr\u00e9fecture du Puy de D\u00f4me - 1, rue d\u2019Assas 63033 Clermont-Ferrand"
+            },
+            "date_rdv": "2022-02-28T14:00:00+00:00",
+            "resultat": {
+                "resume_resultat_entretien": "Adh\u00e9sion aux principes et valeurs de la R\u00e9publique.\nCREA satisfaisant",
+                "resultat_evaluation": "satisfaisant"
+            },
+            "point_a_approfondir": "/",
+            "verifications_prealable": {
+                "pec_list": [
+                    {
+                        "qualification": "VALIDE",
+                        "nom_technique_pec": "piece_identite"
+                    },
+                    {
+                        "qualification": "VALIDE",
+                        "nom_technique_pec": "acte_naissance"
+                    },
+                    {
+                        "qualification": "VALIDE",
+                        "nom_technique_pec": "titre_sejour"
+                    }
+                ],
+                "is_present_rdv": true,
+                "presence_all_originals_pec": "OUI"
+            },
+            "crea": {
+                "integration_environnement_social": {
+                    "is_participe_vie_locale": true,
+                    "resultat_evaluation": "satisfaisant",
+                    "is_convictions_engagements_radicaux": false,
+                    "milieu_de_vie": "france",
+                    "is_a_responsabilites": false
+                },
+                "integration_environnement_familial": {
+                    "resultat_evaluation": "satisfaisant",
+                    "ecoles_enfants": "/",
+                    "particularites_mode_de_vie": "/",
+                    "activites_sociales_loisirs_couple": "/",
+                    "activites_professionnelles_sociales_conjoint": "/"
+                },
+                "motivations_demandeur": {
+                    "resume_motivations": "Je souhaite devenir fran\u00e7ais car c'est un pays grand et vaste et j'adh\u00e8re aux valeurs de la france surtout la libert\u00e9.\nLe fait que je travaille ici , je me vois faire partie de la soci\u00e9t\u00e9.\nJe trouve la France est bien pour moi et je souhaite m'int\u00e9grer dans la soci\u00e9t\u00e9 totalement.\nFaisant partie d'une association \" Petit fr\u00e8res des pauvres \" , je suis volontaire et j'accompagne les personnes ag\u00e9es dans les gestes de la vie qutotidienne. Je souhaite aider toutes ces personnes d\u00e9laiss\u00e9s et c'est pourquoi en \u00e9tant naturalis\u00e9 je pense m'int\u00e9grer totalement"
+                },
+                "assimilation_langue_francaise": {
+                    "is_francais_oral_maitrise": true,
+                    "resultat_evaluation": "satisfaisant"
+                },
+                "integration_liens_pays_origine": {
+                    "liens_pays_origine": "Toute sa famille est au Burundi , Monsieur est seul en france.",
+                    "visites_pays_origine": "Depuis 2015 , il s'est rendu une seule fois",
+                    "resultat_evaluation": "satisfaisant"
+                },
+                "connaissances_histoire_culture_citoyennete": {
+                    "resultat_evaluation": "satisfaisant",
+                    "details_connaissances": "Bonnes connaissances de l'histoire , de la culture ,de la soci\u00e9t\u00e9 fran\u00e7aise et des droits/devoirs citoyens."
+                },
+                "adhesion_principes_valeurs_republique": {
+                    "is_charte_signee": true,
+                    "fichier": {
+                        "id": "621ddbb593fb9e4063aae614",
+                        "_links": {
+                            "self": "/fichiers/621ddbb593fb9e4063aae614",
+                            "data": "/fichiers/621ddbb593fb9e4063aae614/data?signature=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NjU5NTM4MDIuNDg2NjYsInR5cGUiOiJmaWNoaWVyIiwiaWQiOiI2MjFkZGJiNTkzZmI5ZTQwNjNhYWU2MTQifQ.zQ6hzxOEViPJ1KSLHZ0GZ3O8zP77oSuU9y4hRCG1z6w",
+                            "name": "NDUWAYO.pdf"
+                        }
+                    }
+                }
+            }
+        },
+        "id": "3228",
+        "agent_en_charge_sdanf": {
+            "nom": "Gauthier",
+            "prenom": "Sophie",
+            "agent_ref": {
+                "id": "62430b88ac9ba4ef2a4f36fd",
+                "_links": {
+                    "self": "/anf/agents/62430b88ac9ba4ef2a4f36fd"
+                }
+            }
+        },
+        "open_id": null,
+        "prenoms": {
+            "valeur_initiale": "MELCHICEDEC",
+            "modifie_par": {
+                "agent_ref": {
+                    "$oid": "61dece8faa317708a926b96c"
+                },
+                "nom": "TURPIN",
+                "prenom": "Jordan"
+            }
+        }
+    },
+    "errors": {}
+}
